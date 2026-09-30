@@ -15,3 +15,4 @@
 - **Графический интерфейс:** Vulkan SDK (vulkan.hpp C++ Wrapper)
 - **Математика:** GLM (OpenGL Mathematics)
 - **ОС API:** Windows API (Win32)
+- PS этот текст написан ИИ тк мне лень
