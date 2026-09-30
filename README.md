@@ -16,3 +16,4 @@
 - **Математика:** GLM (OpenGL Mathematics)
 - **ОС API:** Windows API (Win32)
 - PS этот текст написан ИИ тк мне лень
+- все переменные и их цель лежат в vars.txt
